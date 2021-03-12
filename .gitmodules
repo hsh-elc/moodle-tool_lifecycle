@@ -1,0 +1,24 @@
+[submodule "step/makeinvisible"]
+	path = step/makeinvisible
+	url = https://github.com/hsh-elc/moodle-lifecyclestep_makeinvisible.git
+	branch = hsh
+[submodule "step/adminapprove"]
+	path = step/adminapprove
+	url = https://github.com/hsh-elc/moodle-lifecyclestep_adminapprove.git
+	branch = hsh
+[submodule "trigger/semindependent"]
+	path = trigger/semindependent
+	url = https://github.com/hsh-elc/moodle-lifecycletrigger_semindependent
+	branch = hsh
+[submodule "trigger/byrole"]
+	path = trigger/byrole
+	url = https://github.com/hsh-elc/moodle-lifecycletrigger_byrole
+	branch = hsh
+[submodule "trigger/customfielddelay"]
+	path = trigger/customfielddelay
+	url = https://github.com/hsh-elc/moodle-lifecycletrigger_customfielddelay
+	branch = hsh
+[submodule "trigger/customfieldsemester"]
+	path = trigger/customfieldsemester
+	url = https://github.com/hsh-elc/moodle-lifecycletrigger_customfieldsemester
+	branch = hsh
